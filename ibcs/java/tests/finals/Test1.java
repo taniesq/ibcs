@@ -1,7 +1,7 @@
 public class Test1 {
 	
 	public static void main (String[] args) {
-		System.out.println("Tanisha Jain");
+		System.out.println("[name]");
 		int numfact; // the user input; the number to be factorial'd
 		
 		do {
