@@ -6,7 +6,7 @@ public class pr1p1 {
 		
 		for (int i = 0; i < num; i++) {
 			int listnum = i + 1;
-			System.out.println(listnum + ". Tanisha");
+			System.out.println(listnum + ". what!");
 		}
 	}
 }
